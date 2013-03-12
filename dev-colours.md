@@ -50,6 +50,10 @@ Image source: http://proto.io/en/presskit/
 Colour: #589442 (CSS)
 Image source: http://www.seeklogo.com/trip-advisor-logo-142352.html
 
+# Typo3
+Colour: #FF8700 (Guidelines)
+Image source: http://typo3.org/the-brand/style-guide/the-typo3-logo/
+
 # Viadeo
 Colour: #F4982B (JPEG)
 Image source: http://corporate.viadeo.com/en/media/resources/
