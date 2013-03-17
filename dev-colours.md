@@ -46,6 +46,10 @@ Image source: http://pingup.com/resources
 Colour: #40C8F4 (CSS)
 Image source: http://proto.io/en/presskit/
 
+# Rails
+Colour: #A62C39 (SVG)
+Image source: http://en.wikipedia.org/wiki/File:Ruby_on_Rails.svg
+
 # Trip Advisor
 Colour: #589442 (CSS)
 Image source: http://www.seeklogo.com/trip-advisor-logo-142352.html
